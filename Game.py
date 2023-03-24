@@ -98,18 +98,18 @@ for i in range (rounds):
 
 #results according to scores        
 if score1 < score2:                      
-    print ("Your score is", score1)
-    print ("Computers socre is",score2)
+    print ("Your score ", score1)
+    print ("Computers socre ",score2)
     print ("Computer wins!.")
 
 if score1 > score2:
-    print ("Your score is", score1)
-    print ("Computers socre is",score2)
+    print ("Your score ", score1)
+    print ("Computers socre ",score2)
     print ("You win!.")
 
 if score1 == score2:
-    print ("Your score is", score1)
-    print ("Computers socre is",score2)
+    print ("Your score ", score1)
+    print ("Computers socre ",score2)
     print ("Its a tie!!.")
 
 
